@@ -50,7 +50,7 @@ const Home = () => {
   <div class="card-body p-4 bg-secondary ">
 
 <h5 class="card-title font-weight-bold text-light ">Beef Burgar 1:2</h5>
-<p class="card-text text-light">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+<p class="card-text text-light">This is a wider card in supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 <b class="bg-danger text-light">Price : 420 tk</b>
 <br />
 <br />
